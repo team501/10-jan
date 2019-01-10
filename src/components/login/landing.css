@@ -1,0 +1,51 @@
+body{margin:0px; padding:0px; font-family: 'Open Sans', sans-serif; background-color:#f4f4f4;}
+.header-bg{width:100%; height:80px; background-color: #fff; position:fixed; box-shadow: 0px 0px 8px 2px #c3c3c3; z-index:99;}
+.main-bg{background-image: url("../../images/lbg.jpg"); height:720px; pointer:cursor; pointer:hand;}
+.main-content{padding:6% 4% 2% 4%;}
+.main-content ul{margin:0px; padding:0px;}
+.main-content ul li{display:inline; font-size:14px; font-weight:bold; color:#fff; width:25%; float:left; margin-top:3%;}
+.main-content ul li a{color:#fff; text-decoration:none;}
+.main-content-text{text-align:center; font-size:23px;}
+.main-content-img{text-align:center; line-height:228px;}
+.footer{background-color:#333333; height:75px; color:#fff; text-align:left; font-size:18px; line-height:80px; padding-left:1%;} 
+.clear-both{clear:both;}
+.logo{padding: 10px 14px 14px 14px;
+    width: 182px;
+    margin-left: 37%;
+    float: left;
+    margin-top: 13px;
+}
+.rightsec{float:right; margin-right: 2%;}
+.rightsec img {width: 38px; margin-top: 15%;}
+link {
+  color:#fff;
+}
+.powered{font-size: 13px; float: right; margin-right: 1%; height:90px;}
+.menu{margin-top: 23px; float:left; cursor:pointer; margin-left:13px; width:100px;}
+.menuList{ width: 450px; background-color: #006496;position: fixed;padding-left: 15px;padding-top: 30px;
+	 columns: 2;	     
+}
+.list{background-color: solid blue;color: white;}
+.image {height:28px; width:37px; padding-right:10px;}
+
+.menuList ul {margin:0px; padding:0px 0px 21px 0px;}
+.menuList ul li{list-style:none; line-height:46px; color:#fff;}
+.menuList ul li a{color:#fff; text-decoration:none;}
+.logo-image{width:80%;}
+.LoginContent-section{position:absolute; top: 38%; left: 9%;}
+.LoginContent-heading{color:#fff; font-size:36px;}
+.LoginContent-subtext{color:#fff; font-size:22px; padding-top:2%; width:350px; margin-bottom:18px; }
+.LoginContent-smalltext{color:#fff; font-size:12px; padding-top:4%; border-top:1px solid #fff;}
+
+.kpi-text-heading{font-family: sans-serif;
+													 font-size: x-large;
+													 font-weight: bold;
+													 padding: 30px 0px 0px 0px;
+													 text-align: left; margin-left:15%}
+.right-arrow{float: right !important;
+position: absolute;
+margin-left: 68%;
+margin-top: 3%;}
+.right-arrow1 {float: right;}
+.right-arrow1 > span{float:right ; color:#c5c5c5;}
+.breadScrum { margin-top: 8px;}

@@ -1,0 +1,19 @@
+.label-success {
+    background-color: #7ed321 !important;
+    border-radius: unset;
+}
+
+.label-warning {
+    background-color: #f8e71c !important;
+    border-radius: unset;
+}
+
+.label-danger {
+    background-color: #d0021b !important;
+    border-radius: unset;
+}
+
+.label-default {
+    background-color: #9f9c9c !important;
+    border-radius: unset;
+}
