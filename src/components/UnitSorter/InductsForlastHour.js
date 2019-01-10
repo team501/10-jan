@@ -7,7 +7,7 @@ const headingGrid = {
 		textAlign: 'left',
 		height: '25px',
 		fontSize: 'large',
-		padding: '5px'
+		padding: '8px'
 };
 
 const mainGrid = {
@@ -39,7 +39,7 @@ class index extends Component{
 		return (
 				<Grid container spacing={2}>
 					<Grid style={headingGrid} item xs={12} sm={12}>
-						Inducts for last hour
+						<strong>Inducts for last hour</strong>
 					</Grid>
 					<Grid xs={12} sm={4}>
 						<div style={leftcontentDiv}>

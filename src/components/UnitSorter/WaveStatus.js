@@ -7,7 +7,7 @@ const headingGrid = {
 		textAlign: 'left',
 		height: '25px',
 		fontSize: 'large',
-		padding: '5px'
+		padding: '8px'
 };
 
 const headingGrid2 = {
@@ -32,7 +32,7 @@ class index extends Component {
 			
 			<Grid container>
 				<Grid style={headingGrid} item xs={12} sm={6}>
-					Wave status today
+				<strong>Wave status today</strong>
 				</Grid>
 				<Grid style={headingGrid2} item xs={12} sm={6}>
 					Wave <strong>20</strong> &nbsp; &nbsp; Units <strong>9,000</strong> &nbsp; &nbsp;&nbsp; &nbsp;

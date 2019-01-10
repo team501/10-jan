@@ -46,7 +46,7 @@ class index extends Component {
 			
 			<Grid container>
 				<Grid style={headingGrid} item xs={12} sm={12}>
-					{this.props.data}
+					<strong>{this.props.data}</strong>
 				</Grid>
 				<Grid style={mainGrid} container spacing={24}>
 					<Grid item xs={4} sm={4}>

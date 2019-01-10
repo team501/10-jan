@@ -49,6 +49,7 @@ return( <div> <Bar data={this.data} width={50} height={40} options={{ maintainAs
     }
   }],
   yAxes: [{
+      position: 'right',
       ticks: {
         fontSize: 20,
         fontWeight:800
